@@ -11,6 +11,17 @@
  * Funciones (argumentos, `return`)
  * Declaraciones `if`
  * Valores booleanos (`true`, `false`)
+ 
+ Variable: es usado para guardar una información que podrá ser usada luego.
+
+String: se utiliza para representar datos de tipo texto
+
+Funciones:  son instrucciones que realizan una tarea o calculan un valor.
+
+Declaraciones If: Es utilizada para tomar decisiones y ejecutar sentencias distintas si una condición específicada es verdadera o falsa.
+
+Valores booleanos: es una sentencia que tiene 2 posibles valores: true o false.
+
 
 2. Instalar Node y NPM. NPM se incluye con Node. <https://nodejs.org/en/download/>
 
