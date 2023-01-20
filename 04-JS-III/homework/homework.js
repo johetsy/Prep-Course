@@ -29,7 +29,7 @@ function incrementarPorUno(array) {
   var aumenta = [];
   for(var x = 0; x < array.length; x++) {
     aumenta[x] = array[x] + 1;  
-    } return aumenta;
+  } return aumenta;
 }
 
 
@@ -72,9 +72,7 @@ function arrayContiene(array, elemento) {
     }
   }
   return false;
-
 }
-
 
 function agregarNumeros(numeros) {
   // "numeros" debe ser un arreglo de enteros (int/integers)
@@ -86,7 +84,6 @@ function agregarNumeros(numeros) {
   }
   return suma;
 }
-
 
 function promedioResultadosTest(resultadosTest) {
   // "resultadosTest" debe ser una matriz de enteros (int/integers)
